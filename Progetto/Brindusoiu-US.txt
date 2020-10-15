@@ -1,0 +1,5 @@
+1. As a user, I want to add new skate spots, so when I discover a new one I can share it with other members of the community.
+
+2. As a skater, I want to choose the nearest spot, so I can skate even when I have less free time.
+
+3. As a shop owner, I want to add my shops to the platform, so I can promote my activity on the platform.
