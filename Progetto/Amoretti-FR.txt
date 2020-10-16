@@ -1,0 +1,5 @@
+1. The system shall display the number of people in any place at any time.
+
+2. The system shall display a list of locations based on several filters.
+
+3. The system shall display a map that shows both skatepark and skate shops

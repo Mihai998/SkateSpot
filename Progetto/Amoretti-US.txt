@@ -1,0 +1,5 @@
+1. As a skater, I want to know how many people are in a specific place at the moment, so that I can respect social distancing due to covid19.
+
+2. As a user, I want to know what other skaters think about a place, so that I can choose the best one for me.
+
+3. As a shop owner, I want to add new articles into my catalog, so that other users can see the newest products.
