@@ -1,4 +1,4 @@
-1. The system shall provide a shop section to view products from different skate shops.
+1. The system shall provide a shop section to view products from different skate shops
 
 2. The system shall provide a feedback area used to comment and rate a spot.
 
